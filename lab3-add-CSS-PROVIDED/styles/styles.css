@@ -14,10 +14,7 @@ a:hover {
   text-decoration: underline;
 }
 .services {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 10px 15px 10px 15px;
   margin-bottom: 40px;
   background-color: #c7e7e7;
 }
@@ -50,18 +47,12 @@ footer p {
   font-style: italic;
 }
 .story {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 10px 15px 10px 15px;
   margin-bottom: 40px;
   background-color: #c7e7e7;
 }
 .locations {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 10px 15px 10px 15px;
   margin-bottom: 40px;
   background-color: #c7e7e7;
 }

@@ -41,10 +41,13 @@ header {
   margin-bottom: 40px;
 }
 footer {
-  font-style: italic;
   text-align: center;
+  margin-bottom: 40px;
   padding: 10px;
   background-color: #c7e3ff;
+}
+footer p {
+  font-style: italic;
 }
 .story {
   padding-top: 10px;
